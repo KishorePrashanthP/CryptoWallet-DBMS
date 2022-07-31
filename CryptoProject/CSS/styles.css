@@ -1,0 +1,131 @@
+table, th, td {
+    border-collapse: collapse;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+th, td {
+    border-bottom: 1px solid #990011FF;
+    padding: 15px;
+    text-align: center;
+    color: #990011FF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 19px;
+}
+
+tr:nth-child(even) {background-color: #FCF6F5FF;}
+body{
+    margin: 0;
+}
+.header {
+    padding: 1px;
+    text-align: center;
+    background-color:#FCF6F5FF;
+    color: #990011FF;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+  ul.topnav {
+    list-style-type: none;
+    margin-top: 8px;
+    padding: 2px;
+    overflow: hidden;
+    background-color: #FCF6F5FF;
+  }
+  ul.topnav li {float: left;}
+  ul.topnav li a {
+    display: block;
+    color: #990011FF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  ul.topnav li a:hover:not(.active) {background-color: #990011FF;color:#FCF6F5FF ;}
+  ul.topnav li a.active {background-color: #990011FF;color:#FCF6F5FF ;}
+  ul.topnav li.right {float: right;}
+.login{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #990011FF;
+  margin-left: 39%;
+  margin-top: 5%;
+}
+.login_buy{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #990011FF;
+  margin-left: 35%;
+  margin-top: 1%;
+}
+.signup{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #990011FF;
+  margin-left: 39%;
+  margin-top: 1%;
+}
+.login_text{
+  font-size: 20px;
+}
+.login_box{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  width: 190px;
+  height: 25px;
+  background-color: #FCF6F5FF;
+  border: none;
+  border-bottom: 1px solid #990011FF;
+}
+.login_submit{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 23px;
+  color: #990011FF;
+  background-color: #FCF6F5FF;
+  border: none;
+  border-left: 1px solid #990011FF;
+  border-top: 1px solid #990011FF;
+  
+  cursor: pointer;
+}
+.login_submit:hover{
+  color: #FCF6F5FF;
+  background-color: #990011FF;
+}
+.underline:hover{
+  border-bottom: 1px solid #990011FF;
+}
+.logout{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #990011FF;
+  font-size: 20px;
+  float: right;
+  padding: 10px;
+}
+.logout_exchange{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #990011FF;
+  font-size: 20px;
+  padding: 5px;
+  float: left;
+}
+.a_logout{
+  text-decoration: none;
+  color: #990011FF;
+}
+.a_logout:hover{
+  border-bottom: 1px solid #990011FF;
+}
+.footer{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #990011FF;
+  background-color: #FCF6F5FF;
+  font-size: 20px;
+  text-align: center;
+  padding: 20px;
+}
+.sum{
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: #990011FF;
+  padding: 10px;
+}
