@@ -18,7 +18,7 @@ CryptoWallet is a dynamic website made using PHP and PostgreSQL. This website al
 
 ## Demo
 
-[CryptoWallet-DBMS Project Demo Video](https://drive.google.com/file/d/1EnOaGZ7VNMaUZ-uUNOSDShWtwb7A-t4J/view?usp=sharing)
+[CryptoWallet-DBMS Project Demo Video](https://drive.google.com/file/d/15SjjzT1j62_VcZWtVidAQKWEl-3252Kr/view?usp=sharing)
 
 
 ## Technologies Used
